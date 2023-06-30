@@ -1,0 +1,20 @@
+  .list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .name {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .deleteBtn {
+    margin-left: 10px;
+  }
+  
